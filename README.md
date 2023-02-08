@@ -10,3 +10,4 @@
 11. Lists
 12. File type
 13. We are symbols, and inhabit symbols
+7. Betty in my first directory
