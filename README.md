@@ -9,3 +9,4 @@
 8. Bye bye Betty
 11. Lists
 12. File type
+13. We are symbols, and inhabit symbols
